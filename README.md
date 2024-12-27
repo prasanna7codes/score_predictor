@@ -1,0 +1,1 @@
+##I took a simple dataset and am trying to predict the exam scores of the students baseson some particular features 
